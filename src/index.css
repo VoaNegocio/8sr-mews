@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+
+  --color-brand-blue: #01109f;
+  --color-brand-light: #b8d2f5;
+  --color-brand-surface: #e8eaed;
+  --color-brand-text: #1e293b;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-brand-text font-sans antialiased;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 3s infinite;
+}
