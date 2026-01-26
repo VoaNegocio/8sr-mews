@@ -25,13 +25,13 @@ export default function Hero() {
                         <span className="text-brand-light">É decisão no tempo certo.</span>
                     </h1>
 
-                    <p className="text-lg md:text-xl text-gray-100 max-w-xl leading-relaxed">
-                        Curso online e ao vivo para profissionais da saúde que precisam identificar deterioração clínica antes que vire emergência.
+                    <p className="text-lg md:text-xl text-gray-100 max-w-xl leading-relaxed font-bold">
+                        Aprenda com quem atua na prática: <span className="text-brand-light font-bold">Professores que são Profissionais da Saúde atuantes!</span>
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-4 pt-4">
                         <a
-                            href="https://wa.me/5500000000000" // Replace with actual number
+                            href="https://wa.me/5519996671304" // Replace with actual number
                             target="_blank"
                             rel="noopener noreferrer"
                             className="group relative overflow-hidden flex items-center justify-center gap-3 bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-xl font-bold text-lg transition-all border-b-4 border-green-700 hover:border-green-700 active:border-b-0 active:translate-y-1 shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:shadow-[0_15px_25px_rgba(34,197,94,0.4)] transform hover:-translate-y-1 active:shadow-none"
@@ -42,16 +42,9 @@ export default function Hero() {
                         </a>
                     </div>
 
-                    <div className="pt-8 flex items-center gap-4 text-sm text-gray-300 font-medium">
-                        <div className="flex -space-x-2">
-                            {[1, 2, 3].map(i => (
-                                <div key={i} className="w-8 h-8 rounded-full bg-gray-600 border-2 border-brand-blue flex items-center justify-center text-xs">
-                                    user
-                                </div>
-                            ))}
-                        </div>
-                        <p>Junte-se a profissionais que já tomaram a decisão certa</p>
-                    </div>
+                    <p className="text-lg md:text-xl text-gray-100 max-w-xl leading-relaxed">
+                        Curso online e ao vivo para profissionais de saúde que precisam identificar deterioração clínica antes que vire emergência
+                    </p>
                 </div>
             </div>
         </section>

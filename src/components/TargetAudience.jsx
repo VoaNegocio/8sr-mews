@@ -1,5 +1,5 @@
 import React from 'react';
-import { UserCheck, Activity, Stethoscope, ShieldCheck, Siren } from 'lucide-react';
+import { UserCheck, Activity, Stethoscope, ShieldCheck, Siren, MessageCircle } from 'lucide-react';
 
 export default function TargetAudience() {
     const audienceList = [
@@ -52,9 +52,21 @@ export default function TargetAudience() {
                                     <p className="font-semibold text-brand-blue">Ideal para quem atua em enfermarias, UTIs, pronto atendimento ou unidades críticas</p>
                                 </div>
                                 <div className="flex items-start gap-3">
-                                    <span className="text-2xl">👉</span>
                                     <p className="font-semibold text-brand-blue">Ideal para quem precisa detectar risco antes da piora</p>
                                 </div>
+                            </div>
+
+                            <div className="mt-8">
+                                <a
+                                    href="https://wa.me/5519996671304"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="group relative overflow-hidden inline-flex items-center justify-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold text-lg py-4 px-8 rounded-xl border-b-4 border-green-700 hover:border-green-700 active:border-b-0 active:translate-y-1 shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:shadow-[0_15px_25px_rgba(34,197,94,0.4)] transition-all transform hover:-translate-y-1 active:shadow-none w-full"
+                                >
+                                    <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent animate-shimmer md:animate-none md:-translate-x-full md:group-hover:translate-x-full md:transition-transform md:duration-1000 md:ease-in-out"></div>
+                                    <MessageCircle className="w-6 h-6 animate-pulse relative z-10" />
+                                    <span className="relative z-10">Falar com a equipe no WhatsApp</span>
+                                </a>
                             </div>
                         </div>
                     </div>

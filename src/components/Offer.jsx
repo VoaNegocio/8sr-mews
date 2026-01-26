@@ -43,7 +43,7 @@ export default function Offer() {
                             </div>
 
                             <a
-                                href="https://wa.me/5500000000000" // Replace
+                                href="https://wa.me/5519996671304" // Replace
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="group relative overflow-hidden block w-full max-w-md mx-auto bg-green-500 hover:bg-green-600 text-white font-bold text-xl py-5 px-8 rounded-xl border-b-4 border-green-700 hover:border-green-700 active:border-b-0 active:translate-y-1 shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:shadow-[0_15px_25px_rgba(34,197,94,0.4)] transition-all transform hover:-translate-y-1 hover:scale-[1.02] active:shadow-none mb-4"
