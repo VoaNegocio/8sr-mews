@@ -46,7 +46,7 @@ export default function Offer() {
                                 href="https://wa.me/5519996671304?text=Ol%C3%A1%2C%20vim%20pelo%20Instagram%20e%20quero%20informa%C3%A7%C3%B5es%20do%20Curso%20MEWS" // Replace
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="group relative overflow-hidden block w-full max-w-md mx-auto bg-green-500 hover:bg-green-600 text-white font-bold text-xl py-5 px-8 rounded-xl border-b-4 border-green-700 hover:border-green-700 active:border-b-0 active:translate-y-1 shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:shadow-[0_15px_25px_rgba(34,197,94,0.4)] transition-all transform hover:-translate-y-1 hover:scale-[1.02] active:shadow-none mb-4"
+                                className="group relative overflow-hidden block w-full max-w-md mx-auto bg-green-500 hover:bg-green-600 text-white font-bold text-xl py-5 px-8 rounded-xl border-b-4 border-green-700 hover:border-green-700 active:border-b-0 active:translate-y-1 shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:shadow-[0_15px_25px_rgba(34,197,94,0.4)] transition-all animate-pulse-scale active:shadow-none mb-4"
                             >
                                 <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent animate-shimmer md:animate-none md:-translate-x-full md:group-hover:translate-x-full md:transition-transform md:duration-1000 md:ease-in-out"></div>
                                 <span className="relative z-10 flex items-center justify-center gap-2">
