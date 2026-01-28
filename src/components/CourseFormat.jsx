@@ -70,7 +70,7 @@ export default function CourseFormat() {
                             <h3 className="text-2xl font-bold mb-2">Certificado Incluso</h3>
                             <p className="text-brand-light/90 text-sm mb-6 font-medium">Reconhecido pela 8SR Gestão & Valor em Saúde</p>
 
-                            <a href="#offer" className="group relative overflow-hidden inline-block w-full bg-white text-brand-blue font-bold py-4 px-6 rounded-xl border-b-4 border-gray-300 hover:border-gray-400 active:border-b-0 active:translate-y-1 transition-all shadow-[0_10px_20px_rgba(0,0,0,0.2)] hover:shadow-[0_15px_25px_rgba(0,0,0,0.3)] transform hover:-translate-y-1 active:shadow-none">
+                            <a href="#offer" className="group relative overflow-hidden inline-block w-full bg-white text-brand-blue font-bold py-4 px-6 rounded-xl border-b-4 border-gray-300 hover:border-gray-400 active:border-b-0 active:translate-y-1 transition-all shadow-[0_10px_20px_rgba(0,0,0,0.2)] hover:shadow-[0_15px_25px_rgba(0,0,0,0.3)] animate-pulse-scale active:shadow-none">
                                 <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-brand-blue/10 to-transparent animate-shimmer md:animate-none md:-translate-x-full md:group-hover:translate-x-full md:transition-transform md:duration-1000 md:ease-in-out"></div>
                                 <span className="relative z-10">Garantir minha vaga</span>
                             </a>
