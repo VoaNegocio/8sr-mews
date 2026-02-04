@@ -19,8 +19,8 @@ export default function Offer() {
                             </div>
 
                             <h2 className="text-3xl md:text-5xl font-bold text-brand-blue mb-2">
-                                <span className="text-2xl align-top opacity-60 text-gray-500 line-through mr-2">R$ 497</span>
-                                R$ 260,00
+                                <span className="text-2xl align-top opacity-60 text-gray-500 line-through mr-2">De R$ 260</span>
+                                por R$ 199,00
                             </h2>
                             <p className="text-gray-500 text-sm mb-8">Investimento único • Exclusivo para contato via WhatsApp</p>
 
@@ -28,9 +28,9 @@ export default function Offer() {
                                 <p className="font-semibold text-brand-text mb-4 text-center">Ao clicar no botão abaixo, você:</p>
                                 <ul className="space-y-3">
                                     {[
-                                        'Fala direto com a equipe',
-                                        'Confirma sua vaga imediatamente',
-                                        'Recebe todas as orientações de acesso'
+                                        'Fala direto com nossa equipe',
+                                        'Confirma sua vaga ',
+                                        'Recebe todas as orientações'
                                     ].map((item, i) => (
                                         <li key={i} className="flex items-center gap-3 text-gray-700">
                                             <div className="bg-green-100 p-1 rounded-full text-green-600 shrink-0">
@@ -43,7 +43,7 @@ export default function Offer() {
                             </div>
 
                             <a
-                                href="https://wa.me/5519996671304?text=Ol%C3%A1%2C%20vim%20pelo%20Instagram%20e%20quero%20informa%C3%A7%C3%B5es%20do%20Curso%20MEWS" // Replace
+                                href="https://wa.me/5516992206074?text=Ol%C3%A1%20quero%20me%20inscrever%20no%20curso%20de%20MEWS" // Replace
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="group relative overflow-hidden block w-full max-w-md mx-auto bg-green-500 hover:bg-green-600 text-white font-bold text-xl py-5 px-8 rounded-xl border-b-4 border-green-700 hover:border-green-700 active:border-b-0 active:translate-y-1 shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:shadow-[0_15px_25px_rgba(34,197,94,0.4)] transition-all animate-pulse-scale active:shadow-none mb-4"
@@ -51,7 +51,7 @@ export default function Offer() {
                                 <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent animate-shimmer md:animate-none md:-translate-x-full md:group-hover:translate-x-full md:transition-transform md:duration-1000 md:ease-in-out"></div>
                                 <span className="relative z-10 flex items-center justify-center gap-2">
                                     <MessageCircle className="w-6 h-6 animate-pulse" />
-                                    Falar com a equipe no WhatsApp
+                                    Falar direto com nossa equipe
                                 </span>
                             </a>
 

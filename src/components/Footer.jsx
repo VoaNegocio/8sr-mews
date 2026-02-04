@@ -13,7 +13,7 @@ export default function Footer() {
                     />
                     <div className="space-y-4">
                         <p className="text-xl md:text-2xl font-serif italic text-gray-700 leading-relaxed">
-                            "A deterioração clínica raramente é súbita. Ela costuma ser ignorada, subestimada ou mal comunicada. O MEWS bem aplicado muda isso."
+                            "A piora clínica raramente é súbita. Ela costuma ser ignorada ou mal comunicada. O MEWS bem aplicado muda isso."
                         </p>
                     </div>
                 </div>

@@ -26,7 +26,7 @@ export default function LearningOutcomes() {
         {
             icon: <Shield className="w-6 h-6 text-brand-blue" />,
             title: "Evitar eventos adversos evitáveis",
-            desc: "Reduzir atrasos, retrabalho e decisões reativas."
+            desc: "Reduzir ao máximo eventos adversos previsíveis."
         }
     ];
 
@@ -58,14 +58,14 @@ export default function LearningOutcomes() {
 
                 <div className="mt-12 text-center">
                     <a
-                        href="https://wa.me/5519996671304?text=Ol%C3%A1%2C%20vim%20pelo%20Instagram%20e%20quero%20informa%C3%A7%C3%B5es%20do%20Curso%20MEWS"
+                        href="https://wa.me/5516992206074?text=Ol%C3%A1%20quero%20me%20inscrever%20no%20curso%20de%20MEWS"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="group relative overflow-hidden inline-flex items-center justify-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold text-lg py-4 px-8 rounded-xl border-b-4 border-green-700 hover:border-green-700 active:border-b-0 active:translate-y-1 shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:shadow-[0_15px_25px_rgba(34,197,94,0.4)] transition-all animate-pulse-scale active:shadow-none w-full md:w-auto"
                     >
                         <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent animate-shimmer md:animate-none md:-translate-x-full md:group-hover:translate-x-full md:transition-transform md:duration-1000 md:ease-in-out"></div>
                         <MessageCircle className="w-6 h-6 animate-pulse relative z-10" />
-                        <span className="relative z-10">Falar com a equipe no WhatsApp</span>
+                        <span className="relative z-10">Fale com nossa equipe agora</span>
                     </a>
                 </div>
             </div>
