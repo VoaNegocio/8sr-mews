@@ -29,7 +29,7 @@ export default function Problem() {
                         É atraso na percepção do risco.
                     </h2>
                     <p className="text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                        Na rotina hospitalar, sinais de deterioração aparecem antes da complicação ou agavamento do paciente.
+                        Na rotina hospitalar, sinais de deterioração aparecem antes da complicação ou agravamento do paciente.
                     </p>
                 </div>
 

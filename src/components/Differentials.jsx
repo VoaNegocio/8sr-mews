@@ -3,7 +3,7 @@ import { User, BookOpen, MessageCircle, Users, Video } from 'lucide-react';
 
 export default function Differentials() {
     const differentials = [
-        { icon: <User className="w-5 h-5" />, text: "Professor atuante na área, com experiência real de plantão" },
+        { icon: <User className="w-5 h-5" />, text: "Professor atuante na área, com experiência na assistência." },
         { icon: <BookOpen className="w-5 h-5" />, text: "Aplicação prática — não só explicação de protocolo" },
         { icon: <MessageCircle className="w-5 h-5" />, text: "Estudo de caso e discussão real" },
         { icon: <Users className="w-5 h-5" />, text: "Troca direta durante a aula" },
