@@ -20,7 +20,7 @@ export default function Offer() {
 
                             <h2 className="text-3xl md:text-5xl font-bold text-brand-blue mb-2">
                                 <span className="text-2xl align-top opacity-60 text-gray-500 line-through mr-2">De R$ 260</span>
-                                por R$ 199,00
+                                por R$ 99,00
                             </h2>
                             <p className="text-gray-500 text-sm mb-8">Investimento único • Exclusivo para contato via WhatsApp</p>
 
