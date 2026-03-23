@@ -43,7 +43,7 @@ export default function Offer() {
                             </div>
 
                             <a
-                                href="https://wa.me/5516992206074?text=Ol%C3%A1%20quero%20me%20inscrever%20no%20curso%20de%20MEWS" // Replace
+                                href="https://wa.me/5516992206074?text=Ol%C3%A1%20quero%20informações%20sobre%20os%20cursos%20disponíveis"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="group relative overflow-hidden block w-full max-w-md mx-auto bg-green-500 hover:bg-green-600 text-white font-bold text-xl py-5 px-8 rounded-xl border-b-4 border-green-700 hover:border-green-700 active:border-b-0 active:translate-y-1 shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:shadow-[0_15px_25px_rgba(34,197,94,0.4)] transition-all animate-pulse-scale active:shadow-none mb-4"

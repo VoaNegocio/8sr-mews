@@ -31,7 +31,7 @@ export default function Hero() {
 
                     <div className="flex flex-col sm:flex-row gap-4 pt-4">
                         <a
-                            href="https://wa.me/5516992206074?text=Ol%C3%A1%20quero%20me%20inscrever%20no%20curso%20de%20MEWS" // Replace with actual number
+                            href="https://wa.me/5516992206074?text=Ol%C3%A1%20quero%20informações%20sobre%20os%20cursos%20disponíveis"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="group relative overflow-hidden flex items-center justify-center gap-3 bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-xl font-bold text-lg transition-all border-b-4 border-green-700 hover:border-green-700 active:border-b-0 active:translate-y-1 shadow-[0_10px_20px_rgba(34,197,94,0.3)] hover:shadow-[0_15px_25px_rgba(34,197,94,0.4)] animate-pulse-scale active:shadow-none"
